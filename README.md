@@ -1,4 +1,4 @@
-# LSTM-Autoencoder-Architecture
+# Hybrid Deep Learning Method Based on LSTM-Autoencoder Network
 We have proposed a new efficient hybrid deep network that consists of an LSTM Auto-Encoder (LSTM-AE) layer, Bi-LSTM layer, a stack of LSTM layer, and a Fully connected layer.
 
 ## Abstract
